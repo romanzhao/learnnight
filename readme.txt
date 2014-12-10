@@ -4,3 +4,4 @@ Git is a mutable index called stage.
 Git reacks changes.
 Roman Test.
 aljflajlkfdjlajlfjlds
+Add a new feature.
